@@ -1,5 +1,5 @@
 C# JogoDaVelha
-Jogo da Velha Console Core 5.0 
+Jogo da Velha Console DotNet 5.0 
 
 Aplicativo feito em C# Windows Console que simula o Jogo da Velha, suas funcoes sao:
 
